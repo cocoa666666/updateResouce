@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>SIMguard</title>
+        <description>Most recent changes with links to updates.</description>
+        <language>en</language>
+        <item>
+            <title>Version 1.1.1</title>
+            <sparkle:releaseNotesLink>
+                版本更新测试
+            </sparkle:releaseNotesLink>
+            <pubDate>Wed, 10 Apr 2022 19:58:11 +0000</pubDate>
+            <enclosure
+                url="https://xxx.com/app.zip"
+                sparkle:shortVersionString="1.1.1"
+                sparkle:version="2022.05.04"
+                length="8718783"
+                type="application/octet-stream"
+                sparkle:edSignature="JkuioJjD/Z2C0RGGjgXNa2eyFT4Ry1rFCRWyzbF/lu9otlODEGEksF6unK1ujuLd+rgS/BfnqyXkA7S3Sy/0Bg=="
+            />
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+        </item>
+    </channel>
+</rss>
+
